@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": "1",
+        "clase": "Refrigeracion",
+        "img": "./imagen/heladera.png"
+    },
+    
+    {
+        "id": "2",
+        "clase": "Linea Blanca",
+        "img": "./imagen/lavarropa.png"
+    },
+    {
+        "id": "3",
+        "clase": "Audio y Video",
+        "img": "./imagen/audio.png"
+    }
+]
+
+
